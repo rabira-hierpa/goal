@@ -12,6 +12,12 @@ gem "vite_rails"
 # rubocop
 gem "rubocop"
 
+# devise
+gem 'devise'
+
+# annotate
+gem 'annotate' 
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 
